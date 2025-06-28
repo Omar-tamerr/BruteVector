@@ -2,3 +2,4 @@ tk
 requests
 paramiko
 smbprotocol
+pysmb
