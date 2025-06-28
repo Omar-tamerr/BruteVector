@@ -1,4 +1,4 @@
-# BruteVector - Full Project Version
+# main.py - BruteVector GUI Launcher
 
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
@@ -30,7 +30,7 @@ class BruteVectorApp:
         self.target_entry = ttk.Entry(top_frame, width=30)
         self.target_entry.grid(row=0, column=1, padx=5, pady=5)
 
-        ttk.Label(top_frame, text="Port:").grid(row=0, column==2, padx=5, pady=5)
+        ttk.Label(top_frame, text="Port:").grid(row=0, column=2, padx=5, pady=5)
         self.port_entry = ttk.Entry(top_frame, width=10)
         self.port_entry.grid(row=0, column=3, padx=5, pady=5)
 
