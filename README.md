@@ -115,7 +115,11 @@ pip install -r requirements.txt
 
 ## 📸 Screenshots
 
-_(Coming soon)_
+### 🔧 Main Interface
+![BruteVector Main GUI](tool.png)
+
+### 🔨 Wordlist Generator
+![Wordlist Generator](wordlist.png)
 
 ---
 
